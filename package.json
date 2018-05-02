@@ -1,0 +1,19 @@
+{
+  "name": "redhatapp",
+  "version": "1.0.0",
+  "description": "first app on OpenShift",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexeranet/node.red.hat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexeranet/node.red.hat/issues"
+  },
+  "homepage": "https://github.com/nexeranet/node.red.hat#readme"
+}
